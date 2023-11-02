@@ -1,0 +1,14 @@
+C:\Users\natha\source\repos\Lista4ATP\Lista4ATP\bin\Debug\net6.0\Lista4ATP.exe
+C:\Users\natha\source\repos\Lista4ATP\Lista4ATP\bin\Debug\net6.0\Lista4ATP.deps.json
+C:\Users\natha\source\repos\Lista4ATP\Lista4ATP\bin\Debug\net6.0\Lista4ATP.runtimeconfig.json
+C:\Users\natha\source\repos\Lista4ATP\Lista4ATP\bin\Debug\net6.0\Lista4ATP.dll
+C:\Users\natha\source\repos\Lista4ATP\Lista4ATP\bin\Debug\net6.0\Lista4ATP.pdb
+C:\Users\natha\source\repos\Lista4ATP\Lista4ATP\obj\Debug\net6.0\Lista4ATP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natha\source\repos\Lista4ATP\Lista4ATP\obj\Debug\net6.0\Lista4ATP.AssemblyInfoInputs.cache
+C:\Users\natha\source\repos\Lista4ATP\Lista4ATP\obj\Debug\net6.0\Lista4ATP.AssemblyInfo.cs
+C:\Users\natha\source\repos\Lista4ATP\Lista4ATP\obj\Debug\net6.0\Lista4ATP.csproj.CoreCompileInputs.cache
+C:\Users\natha\source\repos\Lista4ATP\Lista4ATP\obj\Debug\net6.0\Lista4ATP.dll
+C:\Users\natha\source\repos\Lista4ATP\Lista4ATP\obj\Debug\net6.0\refint\Lista4ATP.dll
+C:\Users\natha\source\repos\Lista4ATP\Lista4ATP\obj\Debug\net6.0\Lista4ATP.pdb
+C:\Users\natha\source\repos\Lista4ATP\Lista4ATP\obj\Debug\net6.0\Lista4ATP.genruntimeconfig.cache
+C:\Users\natha\source\repos\Lista4ATP\Lista4ATP\obj\Debug\net6.0\ref\Lista4ATP.dll

@@ -1,0 +1,14 @@
+C:\Users\natha\source\repos\Lista5ATP\Lista5ATP\bin\Debug\net6.0\Lista5ATP.exe
+C:\Users\natha\source\repos\Lista5ATP\Lista5ATP\bin\Debug\net6.0\Lista5ATP.deps.json
+C:\Users\natha\source\repos\Lista5ATP\Lista5ATP\bin\Debug\net6.0\Lista5ATP.runtimeconfig.json
+C:\Users\natha\source\repos\Lista5ATP\Lista5ATP\bin\Debug\net6.0\Lista5ATP.dll
+C:\Users\natha\source\repos\Lista5ATP\Lista5ATP\bin\Debug\net6.0\Lista5ATP.pdb
+C:\Users\natha\source\repos\Lista5ATP\Lista5ATP\obj\Debug\net6.0\Lista5ATP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natha\source\repos\Lista5ATP\Lista5ATP\obj\Debug\net6.0\Lista5ATP.AssemblyInfoInputs.cache
+C:\Users\natha\source\repos\Lista5ATP\Lista5ATP\obj\Debug\net6.0\Lista5ATP.AssemblyInfo.cs
+C:\Users\natha\source\repos\Lista5ATP\Lista5ATP\obj\Debug\net6.0\Lista5ATP.csproj.CoreCompileInputs.cache
+C:\Users\natha\source\repos\Lista5ATP\Lista5ATP\obj\Debug\net6.0\Lista5ATP.dll
+C:\Users\natha\source\repos\Lista5ATP\Lista5ATP\obj\Debug\net6.0\refint\Lista5ATP.dll
+C:\Users\natha\source\repos\Lista5ATP\Lista5ATP\obj\Debug\net6.0\Lista5ATP.pdb
+C:\Users\natha\source\repos\Lista5ATP\Lista5ATP\obj\Debug\net6.0\Lista5ATP.genruntimeconfig.cache
+C:\Users\natha\source\repos\Lista5ATP\Lista5ATP\obj\Debug\net6.0\ref\Lista5ATP.dll
